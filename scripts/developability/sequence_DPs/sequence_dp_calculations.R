@@ -297,7 +297,7 @@ developability_data = left_join(developability_data, immuno_data)
 
 
 #solubility----
-#(1) produce the input file as above (line ) 
+#(1) produce the input file as above (line 210) 
 
 #(2) run the solubility command on Terminal using the script (SoluProt.txt)
 
