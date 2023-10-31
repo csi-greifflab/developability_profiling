@@ -8,7 +8,7 @@ Therapeutic monoclonal antibodies (mAbs) need to not only show high target-speci
 
 ## Main
 
-Code and datasets are currently being uploaded and will be available soon. For reference, please cite our paper titled 'Cartography of the Developability Landscapes of Native and Human-Engineered Antibodies,' which is currently available as a preprint: https://www.biorxiv.org/content/10.1101/2023.10.26.563958v1.
+Code and datasets are currently being uploaded and will be available soon. For reference, please cite our paper titled "Cartography of the Developability Landscapes of Native and Human-Engineered Antibodies" which is currently available as a preprint: https://www.biorxiv.org/content/10.1101/2023.10.26.563958v1.
 
 ## Developability
 
