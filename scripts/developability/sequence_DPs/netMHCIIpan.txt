@@ -1,5 +1,0 @@
-▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
-▓▓         Running netMHCIIpan             ▓▓
-▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
-
-netMHCIIpan -inptype FASTA -f ~/Ab_developability_project/written_fastas/input_file.fasta -s -tdir ~/Ab_developability_project/netMHCIIpan-4.0/tmp_habib/ -rankS 2 -rankW 10 -a DRB1_0101,DRB1_0701,DRB1_0901,DRB1_1101,DRB1_1201,DRB1_1501,DRB5_0101,HLA-DPA10103-DPB11401,DRB1_0401,DRB1_0405,DRB1_0802,DRB1_0301,DRB1_1302,DRB3_0101,DRB3_0202,DRB4_0101,HLA-DPA10103-DPB10101,HLA-DPA10103-DPB10402,HLA-DPA10103-DPB10501,HLA-DPA10104-DPB10201,HLA-DPA10104-DPB10401,HLA-DQA10101-DQB10201,HLA-DQA10101-DQB10302,HLA-DQA10101-DQB10402,HLA-DQA10102-DQB10501,HLA-DQA10103-DQB10301,HLA-DQA10101-DQB10602 -xls -xlsfile ~/Ab_developability_project/netMHCIIpan-4.0/results/netMHCIIpan_output.xls

@@ -1,1 +1,0 @@
-Input molecular dynamics parameters (.mdp) files for GROMACS simulations.

@@ -1,5 +1,0 @@
-▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
-▓▓              Set Up soluprot                 ▓▓
-▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
-#run this in the directory that has the SoluProt script installed
-python SoluProt_v1.py --i_fa ~/Ab_developability_project/written_fastas/input_file.fasta --o_csv ../soluprot_results_csv/solubility_result.csv --tmp_dir tmp
