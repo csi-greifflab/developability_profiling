@@ -1,0 +1,2 @@
+*.seq.npy filter=lfs diff=lfs merge=lfs -text
+*.csv.zip filter=lfs diff=lfs merge=lfs -text
