@@ -1,1 +1,14 @@
 Native antibody dataset
+
+
+## Big files download
+
+You must download big data files (~10GB each, when compressed) from:
+
+    https://adaptyv-developability.s3.eu-central-1.amazonaws.com/developability_esm-1v-1_bos.npy.zip
+
+and
+
+    https://adaptyv-developability.s3.eu-central-1.amazonaws.com/developability_esm-1v-1_query-0_bos.npy.zip
+
+and unzip the archives (~20GB each after decompression).
