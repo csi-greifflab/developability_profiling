@@ -10,3 +10,21 @@ Therapeutic monoclonal antibodies (mAbs) need to not only show high target-speci
 
 Code and datasets are currently being uploaded and will be available soon. For reference, please cite our paper titled "Cartography of the Developability Landscapes of Native and Human-Engineered Antibodies" which is currently available as a preprint: https://www.biorxiv.org/content/10.1101/2023.10.26.563958v1. The material included in this study is made avalialable under a CC-BY-NC-ND 4.0 International license.
 
+## Python environment setup
+
+Recommended **Python version**: **3.9**.
+
+Prepare a virtual environment, using `virtualenv` here (but Conda also serves the purpose):
+
+    pip install virtualenv
+    virtualenv adaptyv-dl-light
+    source adaptyv-dl-light/bin/activate
+
+Install the requirements:
+
+    pip install -r adaptyv-dl-light.txt
+
+### A note on formats
+
+* `.npy` files are simple Numpy arrays of shape _(samples_num, embedding_dim)_.
+* `.npz` files also contain Numpy arrays, but should be read using `numpy.load([name_of_file])['arr_0']`.
