@@ -1,2 +1,8 @@
 .DS_Store
 **/.DS_Store
+
+*.npy filter=lfs diff=lfs merge=lfs 
+*.csv filter=lfs diff=lfs merge=lfs 
+*.csv.zip filter=lfs diff=lfs merge=lfs 
+*.Rproj.user
+*.Rproj
