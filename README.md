@@ -8,7 +8,7 @@ Designing effective monoclonal antibody (mAb) therapeutics faces a multi-paramet
 
 ## Availability
 
-Code and datasets are currently being uploaded and will be available soon. For reference, please cite our paper titled "Cartography of the Developability Landscapes of Native and Human-Engineered Antibodies" which is currently available as a preprint: https://www.biorxiv.org/content/10.1101/2023.10.26.563958v1. The material included in this study is made avalialable under a CC-BY-NC-ND 4.0 International license.
+Code and datasets are currently being uploaded and will be available soon. For reference, please cite our paper titled "Biophysical cartography of the native and human-engineered antibody landscapes quantifies the plasticity of antibody developability: [https://www.biorxiv.org/content/10.1101/2023.10.26.563958v1](https://www.biorxiv.org/content/10.1101/2023.10.26.563958v2). The material included in this study is made avalialable under a CC-BY-NC-ND 4.0 International license.
 
 ## Python environment setup
 
