@@ -8,8 +8,7 @@ Designing effective monoclonal antibody (mAb) therapeutics faces a multi-paramet
 
 ## Availability
 
-Code and datasets are currently being uploaded and will be available soon. For reference, please cite our paper titled "Biophysical cartography of the native and human-engineered antibody landscapes quantifies the plasticity of antibody developability: https://www.biorxiv.org/content/10.1101/2023.10.26.563958v2. The material included in this study is made avalialable under a CC-BY-NC-ND 4.0 International license.
-
+Datasets are available on GitHub: https://github.com/csi-greifflab/developability_profiling. Structural data, such as predicted models and MD trajectories, are stored on Zenodo194. The raw sequencing data for the human donor is available on the Sequence Read Archive (BioProject number PRJNA1043047).Codes are available on GitHub from: https://github.com/csi-greifflab/developability_profiling. For reference, please cite our paper titled "Biophysical cartography of the native and human-engineered antibody landscapes quantifies the plasticity of antibody developability: [https://www.biorxiv.org/content/10.1101/2023.10.26.563958v2](https://www.nature.com/articles/s42003-024-06561-3). 
 ## Python environment setup
 
 Recommended **Python version**: **3.9**.
